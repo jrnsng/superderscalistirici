@@ -1,6 +1,6 @@
 {
-  "name": "SüperDersÇalıştırıcı",
-  "short_name": "Kronometre",
+  "name": "Süper Çalıştırıcı",
+  "short_name": "Süper Çalıştırıcı",
   "start_url": "./index.html",
   "display": "fullscreen",
   "background_color": "#000000",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
